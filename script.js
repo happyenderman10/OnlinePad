@@ -83,7 +83,8 @@ function change_name(){
 	document.getElementById('name').innerText = new_name
 }
 function show_cn(){
-	document.getElementById('change_name').hidden = false 
+	document.getElementById('change_name').hidden = false
+	document.getElementById('new_name').value = "" 
 }
 function close_cn(){
 	document.getElementById('change_name').hidden = true 
