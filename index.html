@@ -45,10 +45,11 @@ href="javascript:cop()">Copy document Text content</a></li>
 			<button class="btn btn-primary" onclick="change_name()">Change name</button>
 			<button class="btn btn-danger" onclick="close_cn()">Cancel</button>
 	 </div>
-	<div id="close">
-	<h3 id="cndone" style="color:greenyellow"></h3>
-	<button class="btn btn-success" onclick="	document.getElementById('close').hidden = true ">Close</button>
-	</div>
+<div id="close" class="alert success">
+  <span class="closebtn">&times;</span>  
+  <strong>Success!</strong> <h3 id="cndone"></h3>
+</div>
+
 	 <br>
 	 <br>
 	 <textarea  id="e" style="width: 589px; height: 183px;" class="form-control mr-sm-2" placeholder="Enter text here "></textarea>
