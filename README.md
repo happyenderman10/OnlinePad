@@ -27,7 +27,9 @@ and type
 ```
 nativefier https://onlinepad.happyenderyt.repl.co/ OnlinePad
 ```
+# Live preview 
 
+Go to : https://onlinepad.happyenderyt.repl.co/ if you want to see the live preview 
 # Notes 
 
 - If your using private browsing your document will be gone!
