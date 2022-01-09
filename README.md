@@ -25,11 +25,11 @@ npm i nativefier
 and type
 
 ```
-nativefier https://onlinepad.happyenderyt.repl.co/ OnlinePad
+nativefier https://happyenderman10.github.io/OnlinePad/OnlinePad
 ```
 # Live preview 
 
-Go to : https://onlinepad.happyenderyt.repl.co/ if you want to see the live preview 
+Go to : https://happyenderman10.github.io/OnlinePad/ if you want to see the live preview 
 # Notes 
 
 - If your using private browsing your document will be gone!
