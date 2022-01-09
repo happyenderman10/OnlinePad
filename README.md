@@ -25,7 +25,7 @@ npm i nativefier
 - and type
 
 ```
-nativefier https://happyenderman10.github.io/OnlinePad/OnlinePad
+nativefier https://happyenderman10.github.io/OnlinePad/ OnlinePad
 ```
 # Live preview 
 
