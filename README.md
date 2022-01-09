@@ -18,11 +18,15 @@ And go to the folder and then start index.html and done!
 Download ndoejs
 Install nativefier module
 
-```npm i nativefier```
+```
+npm i nativefier
+```
 
 and type
 
-```nativefier https://onlinepad.happyenderyt.repl.co/ OnlinePad```
+```
+nativefier https://onlinepad.happyenderyt.repl.co/ OnlinePad
+```
 
 # Notes 
 
