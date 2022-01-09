@@ -13,8 +13,8 @@ else{
 	document.getElementById('e').value = last
 }
 if (name == null){
-	document.getElementById('name').innerText = "New file.txt"
-	localStorage.setItem('notepad_doc_name','New file.txt')
+	document.getElementById('name').innerText = "New file"
+	localStorage.setItem('notepad_doc_name','New file')
 }
 else{
 	document.getElementById('name').innerText = name
